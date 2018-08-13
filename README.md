@@ -1,6 +1,3 @@
-# Stocks-Prediction-LSTM
-Predicting stocks using LSTM networks. 
-
 ## Time Series Implementation 
 Output for lstm.ipynb implementation 1, navigate to 
 ```
