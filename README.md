@@ -8,7 +8,7 @@ lstm output > LSTM time series prediction keras.pdf
 
 
 ## Stock Market Prediction Implementation 
-code 
+currently there's no output for this implementation. Code file is: 
 ```
 LSTM keras implementation two.ipynb
 ```
