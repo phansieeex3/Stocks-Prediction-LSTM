@@ -17,4 +17,4 @@ Currently there's no output for this implementation. **Code** file is:
 ```
 LSTM keras implementation two.ipynb
 ```
-**link source:** https://www.datacamp.com/community/tutorials/lstm-python-stock-market
+* link source: https://www.datacamp.com/community/tutorials/lstm-python-stock-market
